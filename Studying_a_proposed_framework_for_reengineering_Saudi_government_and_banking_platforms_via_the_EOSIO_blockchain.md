@@ -1931,3 +1931,60 @@ mBridge: مشروع مالي دولي يهدف إلى تسهيل المعامل�
 خامسًا: إنشاء لجنة فنية مشتركة لتقييم الأثر السيادي للنموذج
 
 يُوصى بتشكيل لجنة من دول المجموعة، تضم خبراء في الاقتصاد الرقمي، والحوكمة، والتشريع، لتقييم تبني النموذج وصياغة مرجعية موحدة لاعتماد أنظمة رقمية سيادية 
+
+## ٨. المراجع (References)
+
+## ٨.١ الوثائق والتقارير الرسمية:
+
+Saudi Vision 2030. (2020). Digital Government Strategy. Government of Saudi Arabia.
+
+Saudi Central Bank (SAMA). (2023). Annual Report.
+
+OECD. (2020). Digital Government Index. https://www.oecd.org/en/publications/digital-government-index_4de9f5bb-en.html
+
+World Bank. (2016). World Development Report: Digital Dividends. https://www.worldbank.org/en/publication/wdr2016
+
+G20 Digital Economy Task Force. (2022). G20 Digital Public Infrastructure Framework.
+
+Digital Public Goods Alliance. (2021). DPG Standard.
+
+International Telecommunication Union (ITU). (2021). Measuring Digital Development: Facts and Figures.
+
+
+## ٨.٢ الدراسات التقنية والأبحاث:
+
+Nakamoto, S. (2008). Bitcoin: A Peer-to-Peer Electronic Cash System.
+
+Buterin, V. (2014). A Next-Generation Smart Contract and Decentralized Application Platform.
+
+EOSIO Developer Documentation. https://developers.eos.io
+
+GovStack. (2022). Reference Building Blocks Architecture.
+
+
+## ٨.٣ المقالات والمواد الإعلامية:
+
+صحيفة الوئام. (2024). أبشر توقف خدماتها مؤقتًا للتحديث. https://www.alweeam.com.sa/1105722
+
+صحيفة مكة. (2023). التحديث يجبر البنوك على الصيانة خارج الذروة. https://makkahnewspaper.com/article/1106640
+
+أرقام. (2024). تعطل نظام بنك الإنماء في خارج الفترة الزمنية المحددة للتحديث مما عرض كاتب الدراسة نفسه إلى الوقوع في إحراج نتيجة هذا التعطل دون أن يعرف السبب. https://www.argaam.com/ar/article/articledetail/id/1815488
+
+ملتقى أسبار. (2024). تقرير يحذر من الثغرات الأمنية والاختراقات في الأنظمة المصرفية السعودية.
+https://multaqaasbar.com/%D8%B5%D8%AF%D8%B1-%D8%AD%D8%AF%D9%8A%D8%AB%D9%8B%D8%A7-%D8%B9%D9%86-%D9%85%D9%84%D8%AA%D9%82%D9%89-%D8%A3%D8%B3%D8%A8%D8%A7%D8%B1-%D8%AA%D9%82%D8%B1%D9%8A%D8%B1-%D9%8A%D8%AD%D8%B0%D8%B1-%D9%85%D9%86/
+
+
+
+
+## ٨.٤ الشهادات الشخصية والمحتوى الرقمي:
+
+Almuhanna, M. (2025). Firsthand account of registry manipulation and unauthorized bank transactions. (وثائق شخصية غير منشورة).
+
+منصة تويتر (2025) سرقة الأموال من الحسابات بدون رمز التحقق، تحت التغريدة تجارب لكثيرين تم سحب الأموال من ارصدتهم بنفس الطريقة:
+https://x.com/MajedAlFahad/status/1915705018516189669
+
+
+---
+
+
+
