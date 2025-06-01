@@ -2200,6 +2200,14 @@ Digital Public Goods Alliance. (2021). DPG Standard.
 
 International Telecommunication Union (ITU). (2021). Measuring Digital Development: Facts and Figures.
 
+World Bank. (2020). Doing Business 2020: Comparing Business Regulation in 190 Economies. Retrieved from https://documents1.worldbank.org/curated/en/688761571934946384/pdf/Doing-Business-2020-Comparing-Business-Regulation-in-190-Economies.pdf(World Bank)
+
+World Trade Organization. (n.d.). Trade Facilitation Agreement. Retrieved from https://www.wto.org/english/tratop_e/tradfa_e/tradfa_e.htm
+
+United Nations Economic and Social Commission for Western Asia (UNESCWA). (2023). Digital and Sustainable Trade Facilitation in the Arab Region. Retrieved from https://www.unescwa.org/publications/digital-sustainable-trade-facilitation-arab-region-2023(UN ESCWA)
+
+Organisation for Economic Co-operation and Development (OECD). (2023). Trade Facilitation Indicators: Monitoring Policies Up to 2025. Retrieved from https://www.oecd.org/content/dam/oecd/en/publications/reports/2025/03/oecd-trade-facilitation-indicators_0a21eb4a/fd6f27dc-en.pdf(OECD)
+
 
 ## ٨.٢ الدراسات التقنية والأبحاث:
 
